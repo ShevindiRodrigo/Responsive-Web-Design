@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<!--This special string is known as a declaration and ensures the browser tries to meet industry-wide specifications.-->
+<html lang="en">
+    <head>
+        <!--Tell the browser to encode multiple languages by adding a meta-->
+        <meta charset="UTF-8">
+        <title>CatPhotoApp</title>
+    </head>
+    <body>
+        <h1>Cat Photo App</h1>
+        <!--HTML5 has some elements that identify different content areas. 
+            These elements make your HTML easier to read and help with 
+            Search Engine Optimization (SEO) and accessibility.-->
+          <main>
+            <section>
+                <h2>Cat Photos</h2>
+                <!--TODO: Add link to cat photos-->
+                <!--target attribute with value _blank opens the link in new tab-->
+                <p>Click here to view more <a href ='https://freecatphotoapp.com' target="_blank"></a>cat photos</p>
+                <!--Add images to your website by using the img element. 
+                    img elements have an opening tag without a closing tag. 
+                    A tag for an element without a closing tag is known as a 
+                    self-closing tag.-->
+
+                <!--The alt attribute's text is used for screen readers to improve accessibility-->    
+                <a href="https://freecatphotoapp.com">
+                    <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"  
+                    alt="A cute orange cat lying on its back">
+                </a>
+            </section>
+            <section>
+                <h2>Cat Lists</h2>
+                <h3>Things cats love: </h3>
+                <ul>
+                    <li>cat nip</li>
+                    <li>laser pointers</li>
+                    <li>lasagna</li>
+                </ul>
+                <!--The figure element represents self-contained content 
+                    and will allow you to associate an image with a caption-->
+                <figure>
+                    <img src ="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt ="A slice of lasagna on a plate.">
+                    <figcaption>Cats <em>love</em> lasagna.</figcaption>
+                </figure>
+                <h3>Top 3 things cats hate: </h3>
+                <ol>
+                    <li>flea treatment</li>
+                    <li>thunder</li>
+                    <li>other cats</li>
+                </ol>
+                <figure>
+                    <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt ="Five cats looking around a field.">
+                    <!--The strong element is used to indicate that some text is of strong importance or urgent.-->
+                    <figcaption>Cats <strong>hate</strong> other cats.</figcaption>
+                </figure>
+            </section>
+            <section>
+                <h2>Cat Form</h2>
+                <!--The action attribute indicates where form data should be sent. -->
+                <form action="https://freecatphotoapp.com/submit-cat-photo">
+<!--To make it so selecting one radio button automatically deselects the other, 
+    both buttons must have a name attribute with the same value-->
+    <!--have a value attribute to radio buttons and other input feilds as it is useful
+     for storing form data-->
+
+     <!--The fieldset element is used to group related inputs and labels together in a web form. fieldset elements are block-level elements, meaning that they appear on a new line.-->
+                    <fieldset>
+                        <!--The legend element acts as a caption for the content in the fieldset element.
+                             It gives users context about what they should enter-->
+                        <legend>Is your cat an indoor or outdoor cat?</legend>
+                        <label><input type="radio" name="indoor-outdoor" id="indoor" value="indoor" checked> Indoor</label>
+                        <label><input id ="outdoor" type= "radio" name="indoor-outdoor" value="outdoor"> Outdoor</label>
+                    </fieldset>
+                    <fieldset>
+                        <legend>What's your cat's personality?</legend>
+                        <input type="checkbox" id="loving" name="personality" value="loving" checked><label for="loving" > Loving</label>
+                        <input type="checkbox" id="lazy" name="personality" value="lazy"> <label for="lazy"> Lazy</label>
+                        <input id="energetic" type="checkbox" name="personality" value="energetic"> <label for="energetic"> Energetic</label>
+                    </fieldset>
+
+                    <input type="text" name="catphotourl" placeholder="cat photo URL" required>
+                    <button type="submit">Submit</button>
+                </form>
+            </section>
+          </main>
+          <footer>
+            <p>No Copyright - <a href="https://www.freecodecamp.org">freeCodeCamp.org</a></p>
+          </footer>  
+    </body>
+</html>
