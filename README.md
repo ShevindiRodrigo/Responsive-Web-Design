@@ -21,5 +21,5 @@ In this Responsive Web Design repsitory, I have included the small web apps that
 
 **Thoughts:** This is really awesome. Good luck to my CSS skillup journey! :-). Getting more interesting day by day. 
 
-**Link to work:** [Cafe Menu App](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/catPhotoApp.html)
+**Link to work:** [Cafe Menu App](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/cafeMenuApp.html)
 
