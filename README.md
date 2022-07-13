@@ -14,3 +14,12 @@ In this Responsive Web Design repsitory, I have included the small web apps that
 **Thoughts:** I really struggled with web designing.Although I have some basic knowledge on HTML, I am getting stuck in the middle of my projects.I thought to brush up my web designing skill from A to Z through this certification. 
 
 **Link to work:** [Cat Photo App](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/catPhotoApp.html)
+
+### Day 2: July 13, 2022 
+
+**Today's Progress**: CSS tells the browser how to display your webpage.Learn CSS by designing a menu page for a cafe webpage.
+
+**Thoughts:** This is really awesome. Good luck to my CSS skillup journey! :-). Getting more interesting day by day. 
+
+**Link to work:** [Cafe Menu App](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/catPhotoApp.html)
+
