@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+.marker {
+    width: 200px;
+    height: 25px;
+    /*The margin shorthand property makes it easy to set multiple margin areas at the same time.*/
+    /*first val- top/bottom second val-left/right*/
+    margin: 10px auto;
+}
+.one {
+    /*secondary colors*/
+    /*yellow -rgb(255,255,0)*/
+
+    /*primary color*/
+    background-color: rgb(255,0,0);
+
+    /*tertiary color*/
+    /* background-color: rgb(255,127,0);*/
+
+}
+.two {
+    /*cycan - rgb(0,255,255)*/
+    background-color: rgb(0,255,0);
+}
+
+.three {
+    /* magenta - rgb(255,0,255)*/
+    background-color: rgb(0,0,255);
+}
+.container {
+    /*additive color model -RGB*/
+    background-color: rgb(255, 255, 255);
+    padding: 10px 0px;
+}

@@ -1,0 +1,100 @@
+
+/*h1,h2,p,body, div are type selectors*/
+h1, h2, p {
+    text-align: center;
+}
+h1,h2 {
+    /*fallback value for Impact font is serif*/
+    font-family: Impact, serif;
+}
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+h2 {
+    font-size: 30px;
+}
+body {
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+}
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+
+/*FOOTER*/
+footer {
+    font-size: 14px;
+}
+a {
+    color: black;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
+/* div selector*/
+/*div {
+    /*80% the width of its parent element (body)*/
+    /* width: 80%;
+    background-color: burlywood;
+    /*center the div horizontally: margin-left and margin-right-- auto*/
+    /* margin-left: auto;
+    margin-right: auto; */
+/* } */ 
+
+/*class selectors-- .className*/
+.menu {
+    /*80% the width of its parent element (body)*/
+    width: 80%;
+    background-color: burlywood;
+    /*center the div horizontally: margin-left and margin-right-- auto*/
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+.flavor, .dessert {
+    text-align: left;
+    width: 75%;
+}
+.price {
+    text-align: right;
+    width: 25%;
+}
+/* to have the behaviour of p element more like an inline element use as below.
+The p elements are nested in an article element with the class attribute of item. 
+You can style all the p elements nested anywhere in elements with a class named item like this:*/
+
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.established {
+    font-style: italic;
+}
+.bottom-line {
+    margin-top: 25px;
+}
+
+/*pseudo selector*/
+a:visited {
+    color: black;
+}
+a:hover {
+    color: brown;
+}
+a:active{
+    color: brown;
+}
+.address {
+    margin-bottom: 5px;
+}
