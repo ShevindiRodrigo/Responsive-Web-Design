@@ -15,3 +15,11 @@
 **Thoughts:** This is really awesome. Good luck to my CSS skillup journey! :-). Getting more interesting day by day. 
 
 **Link to work:** [Cafe Menu App](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/cafeMenuApp.html)
+
+### Day 3: July 14, 2022 
+
+**Today's Progress**: Learned how to set color values in CSS styling.Get some basic knowledge on primary, secondary and tertiary color creation using secondary and primary colors. Basically used RGB additive color palette
+
+**Thoughts:** Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers. 
+
+**Link to work:** [Color Marker](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/cafeMenuApp.html)
