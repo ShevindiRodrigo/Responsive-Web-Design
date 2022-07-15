@@ -30,3 +30,11 @@ In this Responsive Web Design repsitory, I have included the small web apps that
 **Thoughts:** Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers. 
 
 **Link to work:** [Color Marker](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/coloredMakers.html)
+
+### Day 4: July 15, 2022 
+
+**Today's Progress**: Continued the color marker project. Learned rgb function, hsl function and hex colors to represent colors.rgb function uses the additive color model, where colors start as black and change as the values of red, green, and blue increase.hsl uses hue, saturation and lightness. Learned to use gradient colors.
+
+**Link to work:** [Color Marker](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/coloredMakers.html)
+
+
