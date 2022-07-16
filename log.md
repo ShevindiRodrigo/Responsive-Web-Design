@@ -34,7 +34,7 @@
 
 **Today's Progress**: Learn HTML forms by building a signup page. Learn how to control what types of data people can type into form, and some new CSS tools for styling the page
 
-**Link to work:** [Color Marker](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/registrationform.html)
+**Link to work:** [Registration form](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/registrationform.html)
 
 
 
