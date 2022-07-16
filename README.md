@@ -37,4 +37,12 @@ In this Responsive Web Design repsitory, I have included the small web apps that
 
 **Link to work:** [Color Marker](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/coloredMakers.html)
 
+### Day 5: July 16, 2022 
+
+**Today's Progress**: Learn HTML forms by building a signup page. Learn how to control what types of data people can type into form, and some new CSS tools for styling the page
+
+**Link to work:** [Registration form](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/registrationform.html)
+
+
+
 
