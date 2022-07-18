@@ -36,5 +36,15 @@
 
 **Link to work:** [Registration form](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/registrationform.html)
 
+### Day 6-7: July 17 -18, 2022 
 
+**Today's Progress**: Learn about Box Model and learn new CSS properties using the ROthko painting project.
+Started the Survey form project.
+
+**Thoughts:** Every HTML element is its own box – with its own spacing and a border. This is called the Box Model.
+Nevertheless, best way to skill up HTML CSS is through working on simple projects on your own.
+
+**Link to work:** [Rothko Painting](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/Rothko%20Painting.html)
+
+**Link to work:** [Survey FOrm](https://github.com/ShevindiRodrigo/SurveyForm)
 
