@@ -56,3 +56,10 @@ Nevertheless, best way to skill up HTML CSS is through working on simple project
 
 **Link to work:** [Survey FOrm](https://github.com/ShevindiRodrigo/SurveyForm)
 
+### Day 8-9: July 19 -20, 2022 
+
+**Today's Progress**: Learned flexbox layout approach. Learned basic concepts and how to apply flexbox approach to html elements.
+
+**Thoughts:** Flexbox helps you design your webpage so that it looks good on any screen size.
+
+**Link to work:** [Photo Gallery](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/photoGallary.html)
